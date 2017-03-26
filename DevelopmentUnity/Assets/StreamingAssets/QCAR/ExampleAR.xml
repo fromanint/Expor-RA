@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Tanooki_Mario" size="512.000000 694.110779" />
+    <ImageTarget name="imgmario" size="100.000000 53.174603" />
+    <ImageTarget name="hola" size="2048.000000 1772.800049" />
+  </Tracking>
+</QCARConfig>
