@@ -4,7 +4,7 @@ using Vuforia;
 
 public class FocusMode : MonoBehaviour {
 
-	private bool mVuforiaStarted = false;
+	/*private bool mVuforiaStarted = false;
 
 	// Use this for initialization
 	void Start () {
@@ -37,7 +37,7 @@ public class FocusMode : MonoBehaviour {
 			// CameraDevice.Instance.SetFocusMode(CameraDevice.FocusMode.FOCUS_MODE_MACRO);
 			// CameraDevice.Instance.SetFocusMode(CameraDevice.FocusMode.FOCUS_MODE_INFINITY);
 		}
-	}
+	}*/
 
 	void Update()
 	{
