@@ -28,7 +28,9 @@ namespace Vuforia
     
         void Start()
         {
-            mTrackableBehaviour = GetComponent<TrackableBehaviour>();
+			
+			//augmented = GameObject.FindGameObjectWithTag ("aumgented");
+			mTrackableBehaviour = GetComponent<TrackableBehaviour>();
             if (mTrackableBehaviour)
             {
                 mTrackableBehaviour.RegisterTrackableEventHandler(this);
